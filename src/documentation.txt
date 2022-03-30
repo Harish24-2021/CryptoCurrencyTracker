@@ -1,0 +1,15 @@
+
+
+a create header compoenent with title and select dropdown 
+b - used useStyles and makesStyles of material -ui instead of css
+  - 
+c create routing with reacter router for home page, and coin page
+d  create context api to provide USD or inr selection to all components
+e. in the header compoenent, call state from useContext and destructure props
+f. in select compoenent add value attribute with value equal to currency state
+also add onChange event and setCurrency to e.target.value
+g. in v6 router , compoenent is assigned to attribute element 
+**when usingn images as backgound , import them at the top and then include them in the backgoundImage property with value url(image name)
+--for theme property in material ui core , main property will 
+accept only hex values for colors
+h. add the corousel in the banner component

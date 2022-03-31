@@ -43,7 +43,7 @@ const Banner = () => {
                         variant="h2"
                         style={{
                             fontWeight: "bold",
-                            marginBottom: 15,
+                            marginBottom: 10,
                             fontFamily: "Montserrat",
 
                         }}
@@ -54,7 +54,7 @@ const Banner = () => {
                     </Typography>
                     <Typography
 
-                        variant="h3"
+                        variant="h4"
                         style={{
                             color: "grey",
                             textTransform: "capitalize",
